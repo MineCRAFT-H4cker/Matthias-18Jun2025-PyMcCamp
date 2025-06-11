@@ -39,8 +39,8 @@ print("the answer is "+str(answer))
 password="passme"
 guess=input("what is the pasword")
 if guess==password:
-    
    print("correct")
+
 
 
 

@@ -15,7 +15,7 @@ yourname=input("what is your name")
 yourcommand=input("what is your command")   
 yourtitle=input("what is your title") 
 print(yourtitle+yourname+yourcommand)
-
+yourname=input()
 
 
 

@@ -11,13 +11,15 @@ yourage=int(yourage)+3#convert string to a number to do a math operation
 print("I am"+str(yourage)+"this year")#convert number to string to print out a sentence
 ########################################################################
 # Task 2
-yourname=input("what is your name")
-yourcommand=input("what is your command")   
-yourtitle=input("what is your title") 
-print(yourtitle+yourname+yourcommand)
+# yourname=input("what is your name")
+# yourcommand=input("what is your command")   
+# yourtitle=input("what is your title") 
+# print(yourtitle+yourname+yourcommand)
+
+
 yourname=input("what is your name")
 num_pens=input ("how many pens are you buying")
-print(yourname+num_pens)
+print(yourname+"bought"+num_pens)
 
 
 

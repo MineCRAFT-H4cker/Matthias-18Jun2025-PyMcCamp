@@ -30,7 +30,7 @@ print(yourname+"bought"+num_pens+"pens")
 # Task 3:
 num1=input("give me 1st number")
 num2=input("give me a second number")
-answer=int(num1)+str
+answer=int(num1)+int(n8u)
 
 
 ########################################################################

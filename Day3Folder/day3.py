@@ -11,7 +11,8 @@ yourage=int(yourage)+3#convert string to a number to do a math operation
 print("I am"+str(yourage)+"this year")#convert number to string to print out a sentence
 ########################################################################
 # Task 2
-yourname=input("whatis your name")
+yourname=input("what is your name")
+title=("")
 
 
 

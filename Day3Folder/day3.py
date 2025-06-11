@@ -12,8 +12,9 @@ print("I am"+str(yourage)+"this year")#convert number to string to print out a s
 ########################################################################
 # Task 2
 yourname=input("what is your name")
-yourcommand=input("what is your command")    
-yourtitle=input("what is youe title")
+yourcommand=input("what is your command")   
+ 
+yourtitle=input("what is your title")
 print(yourtitle+yourname+yourcommand)
 
 

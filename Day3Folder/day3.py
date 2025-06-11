@@ -13,7 +13,7 @@ print("I am"+str(yourage)+"this year")#convert number to string to print out a s
 # Task 2
 yourname=input("what is your name")
     
-yourtitle=input("")
+yourtitle=input("what is youe title")
 print(yourtitle+yourname)("comands the peasants to work harder")
 
 

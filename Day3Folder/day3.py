@@ -5,8 +5,8 @@ print("hello from day3")
 ########################################################################
 # Task 1
 yourname=input("what is your name")
-print("hello"+y)
-
+print("hello"+yourname)
+yourage-
 ########################################################################
 # Task 2:
 

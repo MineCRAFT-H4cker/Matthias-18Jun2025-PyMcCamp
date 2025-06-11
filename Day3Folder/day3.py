@@ -7,7 +7,7 @@ print("hello from day3")
 yourname=input("what is your name")
 print("hello"+yourname)
 yourage=input("how old are you")
-yourage=int(yourage)+3#convert string to a number
+yourage=int(yourage)+3#convert string to a number to do a math 
 ########################################################################
 # Task 2:
 

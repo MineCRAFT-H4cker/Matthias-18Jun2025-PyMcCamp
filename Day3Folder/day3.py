@@ -19,7 +19,7 @@ print("I am"+str(yourage)+"this year")#convert number to string to print out a s
 
 yourname=input("what is your name")
 num_pens=input ("how many pens are you buying")
-print(yourname+"bought"+num_pens)
+print(yourname+"bought"+num_pens+"pens")
 
 
 

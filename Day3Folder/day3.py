@@ -41,7 +41,7 @@ guess=input("what is the pasword")
 if guess==password:
    print("correct")
 else:
-   print("password wrong.....a")
+   print("password wrong.....acess denied!")
 
 
 

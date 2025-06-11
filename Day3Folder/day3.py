@@ -17,7 +17,7 @@ yourtitle=input("what is your title")
 print(yourtitle+yourname+yourcommand)
 yourname=input("what is your name")
 num_pens=input ("how many pens are you buying")
-print(yourname+num_pemns)
+print(yourname+num_pens)
 
 
 

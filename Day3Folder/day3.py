@@ -38,6 +38,9 @@ print("the answer is "+str(answer))
 # Task 4:
 password="passme"
 guess=input("what is the pasword")
+if guess==password:
+    if guess==password:
+
 
 
 ########################################################################

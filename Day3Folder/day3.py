@@ -14,7 +14,7 @@ print("I am"+str(yourage)+"this year")#convert number to string to print out a s
 yourname=input("what is your name")
 print("hello"+yourname)       
 yourtitle=("are you the king?")
-()
+(yourtitle)
 
 
 

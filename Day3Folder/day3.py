@@ -40,6 +40,7 @@ password="passme"
 guess=input("what is the pasword")
 if guess==password:
     if guess==password:
+        print("correct")
 
 
 

@@ -16,7 +16,7 @@ answer="because he wanted to see time fly"
 
 
 guess=input("why did the boy throw the clock out of the window")
-if guess==answer:
+while guess==answer:
     print("correct")
 
 

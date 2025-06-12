@@ -21,6 +21,8 @@ while guess!=answer:
     guess=input("why did the boy throw the clock out of the window")
 
 hidden_answer="no idea"
+while guess==hidden_answer:
+    
 
 
 

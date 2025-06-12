@@ -17,8 +17,8 @@ answer="because he wanted to see time fly"
 
 guess=input("why did the boy throw the clock out of the window")
 while guess!=answer:
-    print("corre")
-
+    print("noob,try again")
+    
 
 
 

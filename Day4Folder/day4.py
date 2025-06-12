@@ -20,7 +20,7 @@ while guess!=answer:
     print("noob,try again")
     guess=input("why did the boy throw the clock out of the window")
 
-
+hidden_answer="no idea"
 
 
 

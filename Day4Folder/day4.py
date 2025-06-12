@@ -22,7 +22,7 @@ while guess!=answer:
 
 hidden_answer="no idea"
 while guess==hidden_answer:
-    
+    print(correct")
 
 
 

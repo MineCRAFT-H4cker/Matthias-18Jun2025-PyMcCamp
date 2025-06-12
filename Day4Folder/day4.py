@@ -13,7 +13,8 @@ while counter<5:
 
 ########################################################################
 # Task 2:
-imput("why did the boy throw the clock out of the window")
+input("why did the boy throw the clock out of the window")
+
 
 
 

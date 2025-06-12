@@ -12,7 +12,7 @@ while counter<5:
 
 
 ########################################################################
-answer="becausehewanted to see time fly"
+answer="because he wanted to see time fly"
 
 
 input("why did the boy throw the clock out of the window")

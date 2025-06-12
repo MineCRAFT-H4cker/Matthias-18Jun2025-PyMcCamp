@@ -6,7 +6,7 @@ print("hello from day4")
 # Task 1:
 import random 
 for count in range(10):
-    randomnumber=random.randint(1,1000)
+    randomnumber=random.randint(1,)
     print(randomnumber)
 
 

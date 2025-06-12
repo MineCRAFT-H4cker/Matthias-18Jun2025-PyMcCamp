@@ -15,7 +15,8 @@ while counter<5:
 answer="because he wanted to see time fly"
 
 
-input("why did the boy throw the clock out of the window")
+guess=input("why did the boy throw the clock out of the window")
+
 
 
 

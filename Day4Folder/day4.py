@@ -12,7 +12,9 @@ while counter<5:
 
 
 ########################################################################
-# Task 2:
+answer=because he wanted to see time fly
+
+
 input("why did the boy throw the clock out of the window")
 
 
